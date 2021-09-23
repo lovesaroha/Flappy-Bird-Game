@@ -8,4 +8,4 @@
 # Flappy-Bird-Game-AI
 A flappy bird game AI [github.com/lovesaroha/Flappy-Bird-Game-AI](https://github.com/lovesaroha/Flappy-Bird-Game-AI) trained with the [github.com/lovesaroha/lmath.js](https://github.com/lovesaroha/lmath.js) library.
 
-[lovesaroha/p/Flappy-Bird-Game-AI](https://lovesaroha.com/p/Flappy-Bird-Game-AI)
+[lovesaroha/Flappy-Bird-Game-AI](https://games.lovesaroha.com/Flappy-Bird-Game-AI)
